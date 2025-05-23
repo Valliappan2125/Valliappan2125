@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=valliappan2125" alt="valliappan2125" /></a> </p>
 
-- 🔭 I’m currently working on **E-Commerce MERN Application**
-
-- 🌱 I’m currently learning **Java, Premiere Pro, TypeScript**
+- 🌱 I’m currently learning **Java, React Native, TypeScript**
 
 - 💬 Ask me about **React, JavaScript**
 
